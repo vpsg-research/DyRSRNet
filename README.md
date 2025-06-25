@@ -232,7 +232,7 @@ If you find DyRSRNet helpful in your research or application, please cite:
 
 ```bibtex
 @article{anonymous2025dyrsrnet,
-  title={DyRSRNet: A Lightweight Super-Resolution Framework Based on Dynamic DyRWSSGroup State-Space Networks},
+  title={DyRSRNet: A Lightweight Super-Resolution Framework Based on Dynamic Recursive State-Space Networks},
   author={Anonymous},
   journal={Submitted to PRCV},
   year={2025}
