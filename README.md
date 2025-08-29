@@ -231,10 +231,10 @@ The visual results will be saved to `results/DyRSRNet`.
 If you find DyRSRNet helpful in your research or application, please cite:
 
 ```bibtex
-@article{anonymous2025dyrsrnet,
+@article{he2025dyrsrnet,
   title={DyRSRNet: A Lightweight Super-Resolution Framework Based on Dynamic Recursive State-Space Networks},
-  author={Anonymous},
-  journal={Submitted to PRCV},
+  author={Sijia He, Ziyan Wei, Liejun Wang, and Zhiqing Guo},
+  journal={PRCV},
   year={2025}
 }
 ```
