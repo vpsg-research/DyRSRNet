@@ -1,4 +1,4 @@
-# [PRCV 2025 Oral] DyRSRNet: A Lightweight Super-Resolution Framework Based on Dynamic Recursive State-Space Networks
+# 【PRCV'25 Oral】DyRSRNet: A Lightweight Super-Resolution Framework Based on Dynamic Recursive State-Space Networks
 
 > **Abstract:**  
 
