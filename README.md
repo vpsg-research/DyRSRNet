@@ -234,7 +234,7 @@ If you find DyRSRNet helpful in your research or application, please cite:
 @article{he2025dyrsrnet,
   title={DyRSRNet: A Lightweight Super-Resolution Framework Based on Dynamic Recursive State-Space Networks},
   author={Sijia He, Ziyan Wei, Liejun Wang, and Zhiqing Guo},
-  journal={PRCV},
+  journal={The 8th Chinese Conference on Pattern Recognition and Computer Vision},
   year={2025}
 }
 ```
